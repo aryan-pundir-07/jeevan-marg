@@ -1,0 +1,19 @@
+# Netlify configuration for RESQ DEHRADUN
+# Only the static frontend (m4_frontend/) is deployed.
+# The C++ backend (m3_navigation/) must be run locally.
+
+[build]
+  publish = "m4_frontend"
+
+[[headers]]
+  for = "/*"
+  [headers.values]
+    X-Frame-Options = "SAMEORIGIN"
+    X-XSS-Protection = "1; mode=block"
+    X-Content-Type-Options = "nosniff"
+    Referrer-Policy = "strict-origin-when-cross-origin"
+
+[[redirects]]
+  from = "/*"
+  to = "/index.html"
+  status = 200

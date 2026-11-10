@@ -1,0 +1,32 @@
+from_node_id,to_node_id,distance_km,road_name,road_type
+LOC-001,LOC-011,0.45,Court Road,CITY_STREET
+LOC-001,LOC-013,0.50,Paltan Bazaar Road,CITY_STREET
+LOC-001,LOC-003,1.20,Station Road,MAIN_ROAD
+LOC-001,LOC-017,4.10,Rajpur Road,MAIN_ROAD
+LOC-001,LOC-014,2.80,Chakrata Road,MAIN_ROAD
+LOC-011,LOC-012,0.55,Hospital Link Road,CITY_STREET
+LOC-011,LOC-009,1.10,Race Course Road,CITY_STREET
+LOC-012,LOC-003,0.60,Prince Chowk Road,CITY_STREET
+LOC-012,LOC-018,0.85,Saharanpur Road,MAIN_ROAD
+LOC-003,LOC-018,0.70,Railway Colony Road,CITY_STREET
+LOC-018,LOC-005,0.90,Patel Nagar Main Road,MAIN_ROAD
+LOC-018,LOC-002,3.20,Saharanpur Highway,HIGHWAY
+LOC-005,LOC-002,2.90,Transport Nagar Road,MAIN_ROAD
+LOC-002,LOC-008,2.40,Bell Road,MAIN_ROAD
+LOC-008,LOC-019,0.65,Subhash Nagar Road,CITY_STREET
+LOC-002,LOC-015,4.80,Haridwar Bypass Road,HIGHWAY
+LOC-015,LOC-010,2.10,Haridwar Expressway Link,HIGHWAY
+LOC-015,LOC-009,2.60,Dharampur Bypass,MAIN_ROAD
+LOC-009,LOC-020,1.40,Haridwar Road,MAIN_ROAD
+LOC-020,LOC-013,1.30,Circular Road,CITY_STREET
+LOC-013,LOC-017,3.90,Subhash Road,MAIN_ROAD
+LOC-017,LOC-004,3.20,Mussoorie Diversion Hill Road,HILL_ROAD
+LOC-014,LOC-006,0.40,Ballupur Canal Road,CITY_STREET
+LOC-014,LOC-016,6.20,Chakrata Highway,HIGHWAY
+LOC-006,LOC-017,4.50,Canal Road Cross,MAIN_ROAD
+LOC-016,LOC-007,2.20,Dhoolkot Medical Road,MAIN_ROAD
+LOC-006,LOC-005,2.70,General Mahadeo Singh Road,MAIN_ROAD
+LOC-004,LOC-006,5.80,Malsi-Ballupur Ridge Road,HILL_ROAD
+LOC-016,LOC-008,8.50,Shimla Bypass Link,MAIN_ROAD
+LOC-019,LOC-002,2.80,Delhi-Dehradun Highway,HIGHWAY
+LOC-010,LOC-020,3.70,EC Road Link,MAIN_ROAD

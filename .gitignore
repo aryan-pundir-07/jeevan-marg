@@ -1,0 +1,16 @@
+# Build artifacts
+m3_navigation/build/
+m3_navigation/*.o
+*.exe
+*.out
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Editor directories
+.vscode/
+.idea/
+
+# Logs
+*.log
