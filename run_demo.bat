@@ -1,7 +1,7 @@
 @echo off
-title RESQ Dehradun - Standalone Demo Runner
+title JEEVAN MARG - Standalone Demo Runner
 echo ========================================================================
-echo  RESQ DEHRADUN -- SMART EMERGENCY RESPONSE & ASSISTANCE SYSTEM
+echo  JEEVAN MARG -- SMART EMERGENCY RESPONSE & ASSISTANCE SYSTEM
 echo  Running Phase-2 Standalone Demonstrations & Interactive Routing Engine
 echo ========================================================================
 echo.

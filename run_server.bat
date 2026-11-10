@@ -1,7 +1,7 @@
 @echo off
-title RESQ Dehradun - REST API Server & Frontend
+title JEEVAN MARG - REST API Server & Frontend
 echo ========================================================================
-echo  RESQ DEHRADUN -- SMART EMERGENCY RESPONSE & ASSISTANCE SYSTEM
+echo  JEEVAN MARG -- SMART EMERGENCY RESPONSE & ASSISTANCE SYSTEM
 echo  Starting C++ REST API Server on http://localhost:8080
 echo  Serving Frontend Dashboard (M4) with Live Map & Real-Time Tracking
 echo ========================================================================

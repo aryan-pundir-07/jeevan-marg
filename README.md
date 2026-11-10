@@ -1,4 +1,4 @@
-# RESQ DEHRADUN &mdash; Smart Emergency Response &amp; Assistance System
+# JEEVAN MARG &mdash; Smart Emergency Response &amp; Assistance System
 ### Project-Based Learning (PBL) &bull; B.Tech Computer Science &amp; Engineering &bull; Graphic Era University (GEU), Dehradun
 
 ---

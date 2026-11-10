@@ -43,7 +43,7 @@ static std::string locateFile(const std::string& filename) {
 void printBanner() {
     std::cout << "\n";
     std::cout << "========================================================================\n";
-    std::cout << "  RESQ DEHRADUN -- SMART EMERGENCY RESPONSE & ASSISTANCE SYSTEM\n";
+    std::cout << "  JEEVAN MARG -- SMART EMERGENCY RESPONSE & ASSISTANCE SYSTEM\n";
     std::cout << "  Module 3 (M3): Navigation & Emergency Routing Engine\n";
     std::cout << "  Target: Dehradun, Uttarakhand, India  |  B.Tech PBL GEU\n";
     std::cout << "========================================================================\n\n";

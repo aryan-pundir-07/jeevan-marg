@@ -250,7 +250,7 @@ void testNearbySearch() {
 
 int main() {
     std::cout << "\n========================================================================\n";
-    std::cout << "  RESQ DEHRADUN -- MODULE 3 COMPREHENSIVE AUTOMATED TEST SUITE\n";
+    std::cout << "  JEEVAN MARG -- MODULE 3 COMPREHENSIVE AUTOMATED TEST SUITE\n";
     std::cout << "========================================================================\n\n";
 
     testDomainModels();

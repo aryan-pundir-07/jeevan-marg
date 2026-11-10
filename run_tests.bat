@@ -1,7 +1,7 @@
 @echo off
-title RESQ Dehradun - Automated Test Runner
+title JEEVAN MARG - Automated Test Runner
 echo ========================================================================
-echo  RESQ DEHRADUN -- AUTOMATED UNIT & INTEGRATION TEST RUNNER
+echo  JEEVAN MARG -- AUTOMATED UNIT & INTEGRATION TEST RUNNER
 echo  Running Test Suites for M1, M2, and M3 (Dijkstra vs Bellman-Ford 380 Pairs)
 echo ========================================================================
 echo.

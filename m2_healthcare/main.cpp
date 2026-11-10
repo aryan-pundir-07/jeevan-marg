@@ -6,7 +6,7 @@
 
 int main() {
     std::cout << "\n========================================================================\n";
-    std::cout << "  RESQ DEHRADUN -- MODULE 2: HEALTHCARE DISCOVERY & BED MANAGER\n";
+    std::cout << "  JEEVAN MARG -- MODULE 2: HEALTHCARE DISCOVERY & BED MANAGER\n";
     std::cout << "  Lead: Rishi Jain (2510010332) | Graphic Era University\n";
     std::cout << "========================================================================\n\n";
 

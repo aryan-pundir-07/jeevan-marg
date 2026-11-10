@@ -1,4 +1,4 @@
-# Netlify configuration for RESQ DEHRADUN – Static Frontend
+# Netlify configuration for JEEVAN MARG – Static Frontend
 [build]
   publish = "."
 

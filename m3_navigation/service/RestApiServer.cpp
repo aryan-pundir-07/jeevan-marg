@@ -106,7 +106,7 @@ void RestApiServer::registerRoutes() {
     // 1. Health check
     server->Get("/api/health", [](const httplib::Request&, httplib::Response& res) {
         setCorsHeaders(res);
-        res.set_content("{\"status\":\"UP\",\"system\":\"RESQ Dehradun Navigation Engine\",\"version\":\"1.0.0\"}", "application/json");
+        res.set_content("{\"status\":\"UP\",\"system\":\"JEEVAN MARG Navigation Engine\",\"version\":\"1.0.0\"}", "application/json");
     });
 
     // 2. GET /nearby?lat=...&lng=...&radius=...&type=...
@@ -530,7 +530,7 @@ void RestApiServer::start(bool blocking) {
     running.store(true);
 
     std::cout << "\n========================================================" << std::endl;
-    std::cout << " [RESQ DEHRADUN] REST API Server Starting..." << std::endl;
+    std::cout << " [JEEVAN MARG] REST API Server Starting..." << std::endl;
     std::cout << " Listening on: http://localhost:" << port << std::endl;
     std::cout << " Endpoints: /nearby , /route , /hospitals , /api/emergency-requests" << std::endl;
     std::cout << " Dashboard: http://localhost:" << port << "/index.html" << std::endl;
@@ -554,6 +554,6 @@ void RestApiServer::stop() {
             serverThread.join();
         }
         running.store(false);
-        std::cout << "[RESQ DEHRADUN] REST API Server stopped." << std::endl;
+        std::cout << "[JEEVAN MARG] REST API Server stopped." << std::endl;
     }
 }
